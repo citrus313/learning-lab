@@ -47,3 +47,26 @@ Example from [stevebarakat's Read Me section of the Minimoog](https://github.com
 
 ## Code Blocks
 Description: A way to preserve formatting for code, configuration files, logs, or terminal output
+Format: 3 of these `, the codelanguage, then the code
+
+Example from [stevebaraket's Minimoog Audio Processors ReadMe file](https://github.com/stevebarakat/Minimoog/blob/main/docs/audio-processors-readme.md)
+
+### **Load Processors** ##
+
+```typescript
+// Load modulation monitor processor
+await audioContext.audioWorklet.addModule(
+  "/audio/audio-processors/modulation-monitor-processor.js"
+);
+
+// Load overload meter processor
+await audioContext.audioWorklet.addModule(
+  "/audio/audio-processors/overload-meter-processor.js"
+);
+
+// Load delay processor
+await audioContext.audioWorklet.addModule(
+  "/audio/audio-processors/delay-processor.js"
+);
+```
+
