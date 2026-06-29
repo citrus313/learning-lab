@@ -1,17 +1,21 @@
-# learning-lab
-Workshop for Markdown, commands, and experimentation 
-
-
-# Overview
-
-I'm a technical writer modernizing my tech writing skills with the goal of becoming a Documentation Engineer with a specialty in developer documentation.
+# About Me 
+I'm a jr. technical writer building modern documentation skills with the goal of becoming a Documentation Engineer. With five years of professional experience as a  writer specializing in video creation, I pair my eye for design to best simplify, format and ensure documentation is readable for both technical and non-technical teams.
 
 ## Skills I'm developing:
 - How to reorganize existing documentation
 - Improving information architecture and navigation
 - Git basics: Creating branches, commits and pull requests
 
-With the docs-as-code minddset, I'm ancoring my study of GitHub with questions such as:
-- How do effective tech writers organize docs?
+With a docs-as-code mindset, I'm anchoring my study of GitHub with questions such as:
+- How do effective tech writers organize documentation?
 - What belongs in the readme vs a separate guide?
-- How are documents interlinked? 
+- How should documentation be structured and interlinked? 
+- When should information be presented as a guide, reference, tutorial, or FAQ?
+- How can documentation become easier to maintain over time?
+- What documentation improvements have the greatest impact in widely used but outdated repositories? 
+
+
+## Current Projects
+- Preparing my first open-source doc contribution
+- Studying documentation structure in real-world repositories
+- Practicing Git & Github workflows
