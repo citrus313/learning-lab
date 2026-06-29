@@ -23,6 +23,6 @@ With a docs-as-code mindset, I'm anchoring my study of GitHub with questions suc
 ## Helpful Resources 
 | Language  | Resource Link
 | :--- | :----|
-| Git | - [Git Branching Interactive](https://learngitbranching.js.org) |
+| Git | [Git Branching Interactive](https://learngitbranching.js.org) |
 | Markdown | https://commonmark.org/help/tutorial/ | 
 | GitHub| [GitHub Flow] (https://docs.github.com/en/get-started/using-github/github-flow)|
