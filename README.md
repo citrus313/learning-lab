@@ -25,7 +25,7 @@ With a docs-as-code mindset, I'm anchoring my study of GitHub with questions suc
 
 #### Git
 - [Git Branching Interactive](https://learngitbranching.js.org)
-
+- [GitMastery](https://gitmastery.me/)
 #### GitHub
 - [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)
 
