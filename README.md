@@ -21,8 +21,14 @@ With a docs-as-code mindset, I'm anchoring my study of GitHub with questions suc
 - Practicing Git & Github workflows
 
 ## Helpful Resources 
-| Language  | Resource Link
-| :--- | :----|
-| Git | [Git Branching Interactive](https://learngitbranching.js.org) |
-| Markdown | https://commonmark.org/help/tutorial/ | 
-| GitHub| [GitHub Flow] (https://docs.github.com/en/get-started/using-github/github-flow)|
+
+
+#### Git
+- [Git Branching Interactive](https://learngitbranching.js.org)
+
+#### GitHub
+- [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)
+
+  
+#### Markdown
+- https://commonmark.org/help/tutorial/
