@@ -19,3 +19,9 @@ With a docs-as-code mindset, I'm anchoring my study of GitHub with questions suc
 - Preparing my first open-source doc contribution
 - Studying documentation structure in real-world repositories
 - Practicing Git & Github workflows
+
+## Helpful Resources 
+| Language  | Resource Link
+| :--- | :----|
+| Git | (Git Branching Interactive)[https://learngitbranching.js.org/]
+| Markdown | https://commonmark.org/help/tutorial/ | 
