@@ -15,10 +15,10 @@ With a docs-as-code mindset, I'm anchoring my study of GitHub with questions suc
 - What documentation improvements have the greatest impact in widely used but outdated repositories? 
 
 
-## Current Projects
-- Preparing my first open-source doc contribution
+## Current Projects in Progress
 - Studying documentation structure in real-world repositories
 - Practicing Git & Github workflows
+- Building a style guide
 
 ## Helpful Resources 
 
