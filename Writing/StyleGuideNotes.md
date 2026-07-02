@@ -1,6 +1,6 @@
 
 # Building a Style Guide
-> A **style guide** is more than a list of rules. It’s the blueprint for your user’s experience, turning subjective debates into a streamlined, professional workflow that builds trust with every article.
+> A **style guide** is more than a list of rules. It’s the blueprint for a user’s experience, turning subjective debates into a streamlined, professional workflow that builds trust with every article.
 
 
 ## Assignment TWMP
