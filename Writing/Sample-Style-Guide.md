@@ -1,5 +1,6 @@
 
 # Overview
+This guide will be a technical writing guide geared towards engineering teams and companies.
 
 # Table of Contents
 - [Style](#style)
