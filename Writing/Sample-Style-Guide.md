@@ -15,8 +15,8 @@ This guide will be a technical writing guide geared towards engineering teams an
 - 
 
 
-### Style 
-IN each document, aim for voice and tone that's conversational and "natural" instead of formal.
+# Style 
+In each document, aim for voice and tone that's conversational and "natural" instead of formal.
 Here are a few key elements of writing in [abc's] voice. For more, see the Grammar and mechanics section.
 
 Use active voice. Avoid passive voice.
@@ -36,8 +36,8 @@ Quick Tips:
 # Visuals and Multimedia
 
 
-### Grammar
+# Grammar
 
 
-### [Writing in programming language]
+# [Writing in programming language]
 
