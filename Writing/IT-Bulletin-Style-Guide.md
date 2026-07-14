@@ -1,6 +1,6 @@
 
 
-*IT Bulletin Sharepoint Style Guide 2026*
+#IT Bulletin Sharepoint Style Guide 2026
 
 Division header = pull quote, bold, 42pt, centered
 
