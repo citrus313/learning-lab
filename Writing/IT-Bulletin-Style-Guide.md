@@ -1,11 +1,9 @@
 
 
 # IT Bulletin Sharepoint Style Guide 2026
-Purpose: Define the editorial and visual standards for the IT Department's SharePoint bulletin to ensure consistency across divisions, contributors, and future quarterly editions.
+**Purpose:** Define the editorial and visual standards for the IT Department's SharePoint bulletin to ensure consistency across divisions, contributors, and future quarterly editions.
 
-Overview: This style guide establishes visual and editorial standards for the IT Department's quarterly bulletin on Microsoft SharePoint. The bulletin highlights the accomplishments of the department's five divisions and their respective teams each quarter.
-
-While each division may submit accomplishments in its own format and writing style, technical writers are responsible for presenting that information in a clear, concise, and visually consistent manner. These standards help ensure the bulletin is easy to read, professionally designed, and simple to maintain and replicate for future editions or other departments.
+Note: While each division may submit accomplishments in its own format and writing style, technical writers are responsible for presenting that information in a clear, concise, and visually consistent manner. These standards help ensure the bulletin is easy to read, professionally designed, and simple to maintain and replicate for future editions or other departments.
 
 ## Layout
 * The bulletin is divided into key sections: Notable Metrics, Accomplishments and In-Progress or Planned Initiatives
